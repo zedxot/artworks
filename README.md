@@ -69,6 +69,34 @@ Welcome to my personal art showcase. This repository hosts a curated collection 
 
 ---
 
+### 10. Bloooop — Power to Serve
+![Bloooop — Power to Serve](./117988019_137238871071585_688519079001294990_n.png)
+
+> **Description:** A high-contrast monochrome banner exploring fluid curves and brush motifs for Bloooop.
+
+---
+
+### 11. Build Your Empire
+![Build Your Empire](./300700201_616238036557190_5316121948397354523_n.png)
+
+> **Description:** A minimalist line-art illustration of a visionary standing before an urban cityscape under the night sky.
+
+---
+
+### 12. Bloooop Academy — Boundless Learning
+![Bloooop Academy — Boundless Learning](./302358497_447635280731448_2696628517431893418_n.png)
+
+> **Description:** A cosmic line-art banner featuring a floating astronaut and planetary orbits, symbolizing limitless curiosity.
+
+---
+
+### 13. Bloooop Echo — The Voice of You
+![Bloooop Echo — The Voice of You](./306858280_219941650358307_1195571499552374939_n.png)
+
+> **Description:** An underwater deep-sea line-art illustration with marine life, celebrating individuality and expression.
+
+---
+
 ## 📌 About & Rights
 
 All artworks in this repository are personal creative projects by **Zed**. Feel free to browse and explore.
