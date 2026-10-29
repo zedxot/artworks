@@ -21,14 +21,14 @@ Welcome to my personal art showcase. This repository hosts a curated collection 
 ---
 
 ### 3. Being a Nihilist
-![Being a Nihilist](./240827575_3121945201411205_4840633429817213648_n.jpg)
+![Being a Nihilist](./nihilist.jpg)
 
 > **Description:** A surreal chalkboard-style cosmic illustration depicting an open mind brimming with eccentric thoughts and existential musings.
 
 ---
 
 ### 4. Mutatio Fati
-![Mutatio Fati](./265097145_3208801436058914_7979902267691050131_n.jpg)
+![Mutatio Fati](./mutatio-fati.jpg)
 
 > **Description:** A minimalist classical emblem featuring a hand raising a flaming torch inside concentric rings, representing the courage to alter one's destiny.
 
@@ -42,7 +42,7 @@ Welcome to my personal art showcase. This repository hosts a curated collection 
 ---
 
 ### 6. I Hate Small Talk
-![I Hate Small Talk](./178363467_3031168013822258_2342630215956106414_n.jpg)
+![I Hate Small Talk](./hate-small-talk.jpg)
 
 > **Description:** A refined dark typographic manifesto rejecting superficial pleasantries in favor of conversations with real depth.
 
@@ -69,31 +69,24 @@ Welcome to my personal art showcase. This repository hosts a curated collection 
 
 ---
 
-### 10. Bloooop — Power to Serve
-![Bloooop — Power to Serve](./117988019_137238871071585_688519079001294990_n.png)
-
-> **Description:** A high-contrast monochrome banner exploring fluid curves and brush motifs for Bloooop.
-
----
-
-### 11. Build Your Empire
-![Build Your Empire](./300700201_616238036557190_5316121948397354523_n.png)
-
-> **Description:** A minimalist line-art illustration of a visionary standing before an urban cityscape under the night sky.
-
----
-
-### 12. Bloooop Academy — Boundless Learning
-![Bloooop Academy — Boundless Learning](./302358497_447635280731448_2696628517431893418_n.png)
+### 10. Bloooop Academy — Boundless Learning
+![Bloooop Academy — Boundless Learning](./blooop-academy-cover.png)
 
 > **Description:** A cosmic line-art banner featuring a floating astronaut and planetary orbits, symbolizing limitless curiosity.
 
 ---
 
-### 13. Bloooop Echo — The Voice of You
-![Bloooop Echo — The Voice of You](./306858280_219941650358307_1195571499552374939_n.png)
+### 11. Bloooop Echo — The Voice of You
+![Bloooop Echo — The Voice of You](./blooop-echo-cover.png)
 
 > **Description:** An underwater deep-sea line-art illustration with marine life, celebrating individuality and expression.
+
+---
+
+### 12. We Are Not Finished (Obsidian // 02)
+![We Are Not Finished](./we-are-not-finished.png)
+
+> **Description:** An evocative dark editorial typographic artwork on resilience, redemption, and choosing how to live.
 
 ---
 
